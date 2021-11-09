@@ -1,3 +1,6 @@
+// Write a function which checks number till given input/parameter is odd or even
+
+// Đáp án của họ
 console.log('6-odd-even-number-loop');
 
 function isOddEvenNumber(curLimit) {
